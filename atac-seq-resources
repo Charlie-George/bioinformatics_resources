@@ -1,0 +1,29 @@
+
+This summarisies various sources of ATAC-seq information fronm the web 
+
+
+
+
+
+Bioconductor Packages
+
+
+esATAC: easy to use systematic pepline for ATAC-seq data analysis 
+
+Wei Z, Zhang W, Fang H, Li Y, Wang X (2018). “esATAC: an easy-to-use systematic pipeline for ATAC-seq data analysis.” Bioinformatics. doi: 10.1093/bioinformatics/bty141. 
+https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty141/4924216
+- R pipeline that wraps many exisiting tools and gerenrates a few QC plots
+- annotations = chipseeker
+- GO enrichment = enrichGO from cluster profilier
+extras
+- motif matercher 
+- generates cutsites and filters numclesosme free fragments (<100bp) 
+
+ATAC-seq Quaility control
+
+
+Basic experimental and computational atac-seq overview
+https://informatics.fas.harvard.edu/atac-seq-guidelines.html
+
+Omni-chip - imporoved method - used for human brain slices, do nuclear extract 
+https://www.nature.com/articles/nmeth.4396
