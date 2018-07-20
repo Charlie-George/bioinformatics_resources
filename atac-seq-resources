@@ -20,6 +20,30 @@ extras
 - generates cutsites and filters numclesosme free fragments (<100bp) 
 
 ATAC-seq Quaility control
+Ou J, Liu H, Yu J, Kelliher MA, Castilla LH, Lawson ND, Zhu LJ (2018). “ATACseqQC: a Bioconductor package for post-alignment quality assessment of ATAC-seq data.” BMC Genomics, 19(1), 169. ISSN 1471-2164, doi: 10.1186/s12864-018-4559-3, https://doi.org/10.1186/s12864-018-4559-3. 
+IGV snapshot function 
+-library complexity - distinct fragments versus putative sequenced fragments 
+-frag size distribution
+-shift reads for peakcalling and footprinting 
+-coverage of promotoer/coverage of transcript body
+- NFR score - ratio between cut sifnal adjacent to TSS: and that 
+- nucleosome-free, mononucleosome, di nucleosome, trinucleosome 
+    - use random forest to classify fragments 
+      - top 10% reads <100bp = nucleosome free
+      - top 10% of reads 180-247bp = mononucleosomes
+      - this is the training set to classify the rest using randon forest - number of the three is 2*sqrt(len(training_set))
+      - conservation score can also be inclused 
+ - heatmap and coverage curve for nucleosome possitions
+   - average signal across all active TSSs 
+        - nuc free fragements enriched at TSS
+        - nucleosome bound fragments at upstream and downstream of TSS 
+ -factor footprints does not take conservation into account (centipede =alternative)
+ -
+V plot - distance to binding sites 
+ 
+ 
+ Footprinting
+ - centerpede - takes PhyloP into account 
 
 
 Basic experimental and computational atac-seq overview
