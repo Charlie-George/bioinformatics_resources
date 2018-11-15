@@ -23,7 +23,7 @@ https://www.nature.com/articles/nmeth.4396
 
 ## Bioconductor Packages 
 
-** esATAC**
+**esATAC**
 
 Wei Z, Zhang W, Fang H, Li Y, Wang X (2018). “esATAC: an easy-to-use systematic pipeline for ATAC-seq data analysis.” Bioinformatics. doi: 10.1093/bioinformatics/bty141. 
 https://www.bioconductor.org/packages/release/bioc/html/esATAC.html
