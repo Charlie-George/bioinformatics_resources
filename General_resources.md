@@ -1,6 +1,37 @@
 
 
-These are some books/online resources that I would really recommend
+
+
+# Useful-Computational-Biology-Resources
+Repository to gather links/info of useful computational biology resources
+
+
+Videos 
+------
+
+Broad - Models Inference and Alogorithms meeting 
+https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
+
+Broad Institute - Other uploads 
+https://www.youtube.com/user/broadinstitute/videos?view=0&sort=dd&shelf_id=10
+
+
+
+
+Browsers 
+--------
+
+Washu genome browser
+http://epigenomegateway.wustl.edu
+
+IGV 
+
+ucsc
+
+
+Programming/Stats Books
+-----------------------
+
 
 # R resources
 
