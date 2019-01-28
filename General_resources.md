@@ -37,12 +37,19 @@ Programming/Stats Books
 
 - [**R for datascience**](http://r4ds.had.co.nz/) 
 
-  Introducotry book into:
+  Introductory book into:
     - R 
     - R studio
     - Tidyverse for data wrangling
     - plotting in ggplot
     - data science
+
+# Bioconductor resources 
+
+[**Bioconductor workshop resources from 2018**](https://bioconductor.github.io/BiocWorkshops/)
+- overview of R
+- overview of bioconductor
+- key bioconductor packages e.g granges etc
 
 # Statistics 
 
@@ -55,6 +62,7 @@ Introductory textbook in statistics
 - [**Modern Statistics for Modern Biology**](http://web.stanford.edu/class/bios221/book/) by Wolfgang huber and Susan Holmes
 
     Excellent begginner to intermediate statistical concepts that are geared towards biological problems - These are  two top experts in teh field of statistics and biological datascience, this book really is a must read.
+
 
 
 
