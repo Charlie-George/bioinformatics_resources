@@ -75,3 +75,7 @@ Introductory textbook in statistics
 - **Python Machine Learning 2nd edition** by Sebastian Raschka and Vahid Mirjalili
 
     Nice introductory textbook going over the fundmentals of machine learning concepts 
+    
+- general datascience website with interesting articals related to all things datascience, lots of machine learning topics
+
+https://towardsdatascience.com/
