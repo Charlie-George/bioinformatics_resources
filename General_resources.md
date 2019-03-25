@@ -8,6 +8,10 @@ Repository to gather links/info of useful computational biology resources
 
 - https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources
 
+# Tutorials/Course Materials 
+- https://github.com/hbctraining
+
+
 Videos 
 ------
 
