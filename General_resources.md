@@ -34,6 +34,11 @@ IGV
 
 ucsc
 
+Graphs/Visulisation
+-------------------
+
+[**Chartmaker**](**https://chartmaker.visualisingdata.com/**) - summary of different types of plot and how to make them using different software 
+
 
 Programming/Stats Books
 -----------------------
@@ -49,6 +54,8 @@ Programming/Stats Books
     - Tidyverse for data wrangling
     - plotting in ggplot
     - data science
+    
+# [Software carpentry R for genomics](https://datacarpentry.org/genomics-r-intro/)
 
 # Bioconductor resources 
 
