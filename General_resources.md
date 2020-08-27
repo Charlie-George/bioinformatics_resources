@@ -6,19 +6,19 @@
 Repository to gather links/info of useful computational biology resources
 
 
-- https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources
 
 ## General Genomics/Bioinformatics Focused resorces 
-
+  
 ### Tutorials/Course Materials 
 
   - [Harvard Chan Bioinformatic Core training repository[(https://github.com/hbctraining) and [website](https://hbctraining.github.io/main/)
-
   - Bioconductor resources
     - [Bioc2020 conference resources](http://bioc2020.bioconductor.org/)
           - overview of bioconductor
           - recorded workshops and vignettes (beginner to advanced) on key bioconductor packages (e.g. annotations) as well as more specific single cell, HiC packages
           - Keynote lectures and short talks on recent developments in field 
+  - Curated list of bioinformatic resourses from [Edinbourghs XDF fellowship programme](https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources)
+
 
 ### Lectures
   - Broad [Models Inference and Alogorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
@@ -40,10 +40,10 @@ Repository to gather links/info of useful computational biology resources
 
 ## General Datascience
 
-- [General datascience topics](https://towardsdatascience.com/) - general datascience website with interesting articles relating to all things datascience, lots of machine learning topics
+  - [General datascience topics](https://towardsdatascience.com/) - general datascience website with interesting articles relating to all things datascience, lots of machine learning topics
 
 ### Graphs/Visulisation
-  - [**Chartmaker**](**https://chartmaker.visualisingdata.com/**) - summary of different types of plot and how to make them using different software 
+  - [Chartmaker](https://chartmaker.visualisingdata.com/) - summary of different types of plot and how to make them using different software 
   - [Python graph gallery](https://python-graph-gallery.com/) - gallery of various python-based graphs and how to make them 
   - [R graph gallery](https://www.r-graph-gallery.com/) - gallery of various R-based graphs and how to make them 
 
