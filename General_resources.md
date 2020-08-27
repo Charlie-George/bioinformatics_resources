@@ -11,14 +11,17 @@ Repository to gather links/info of useful computational biology resources
   
 ### Tutorials/Course Materials 
 
-  - [Harvard Chan Bioinformatic Core training repository[(https://github.com/hbctraining) and [website](https://hbctraining.github.io/main/)
+
   - Bioconductor resources
     - [Bioc2020 conference resources](http://bioc2020.bioconductor.org/)
           - overview of bioconductor
           - recorded workshops and vignettes (beginner to advanced) on key bioconductor packages (e.g. annotations) as well as more specific single cell, HiC packages
           - Keynote lectures and short talks on recent developments in field 
+  - [Biostars Handbook](https://www.biostarhandbook.com/) - Introductory guide to bioinformatics, giving overview of theoy and step by stepinstructions for getting started with many bioinfomatic tasks and analysis
   - Curated list of bioinformatic resourses from [Edinbourghs XDF fellowship programme](https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources)
-
+  - [Harvard Chan Bioinformatic Core training repository](https://github.com/hbctraining) and [website](https://hbctraining.github.io/main/)- introductory tutorials to several bioinformatic topics (ATAC, RNAseq, scRNA-seq)
+  - [CSAMA[(https://www.huber.embl.de/csama2020/#home)
+  - [Hemberg scRNA-seq course](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
 
 ### Lectures
   - Broad [Models Inference and Alogorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
