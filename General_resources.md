@@ -58,4 +58,10 @@ Repository to gather links/info of useful computational biology resources
 
 - [**Python Machine Learning](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750) by Sebastian Raschka and Vahid Mirjalili
   - Nice introductory textbook going over the fundmentals of machine learning concepts 
+  
+  
+### general programming 
+  - [Linux Foundation Course](https://www.edx.org/course/introduction-to-linux) - Through intro to linux and command line 
+  - [intro to tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) - brief 2 minute guide to getting started with tmux 
+  - [atom guide](https://flight-manual.atom.io/) - guide to getting started with atom text editor 
 
