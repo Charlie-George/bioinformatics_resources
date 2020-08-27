@@ -46,6 +46,7 @@ Repository to gather links/info of useful computational biology resources
   - [Chartmaker](https://chartmaker.visualisingdata.com/) - summary of different types of plot and how to make them using different software 
   - [Python graph gallery](https://python-graph-gallery.com/) - gallery of various python-based graphs and how to make them 
   - [R graph gallery](https://www.r-graph-gallery.com/) - gallery of various R-based graphs and how to make them 
+  - [ggplot extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) - nice overview of ggplot extensions you can use - good for plotting inspiration
 
 ### R resources
 
