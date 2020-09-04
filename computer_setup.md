@@ -19,6 +19,8 @@ Things you might want to install/Setup to make your life easier
         - atom -> text editior - there are various add-ons you might also want 
             - pep8
             - ftp-remote-edit
+            - teletext
+            - platformio-ide-terminal
         - one note -> microapft software for virtual notebooks great for labbook alternative or general notetaking 
         - tmux - help mutiplex terminal panes and keep sessions running when you log off (might need to install via brew if you are using a mac) 
         - Filezilla -> for ftp transfer of files between systems
