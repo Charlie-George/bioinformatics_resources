@@ -20,8 +20,9 @@ Repository to gather links/info of useful computational biology resources
   - [Biostars Handbook](https://www.biostarhandbook.com/) - Introductory guide to bioinformatics, giving overview of theoy and step by stepinstructions for getting started with many bioinfomatic tasks and analysis
   - Curated list of bioinformatic resourses from [Edinbourghs XDF fellowship programme](https://www.ed.ac.uk/cross-disciplinary-fellowships/training-resources)
   - [Harvard Chan Bioinformatic Core training repository](https://github.com/hbctraining) and [website](https://hbctraining.github.io/main/)- introductory tutorials to several bioinformatic topics (ATAC, RNAseq, scRNA-seq)
-  - [CSAMA[(https://www.huber.embl.de/csama2020/#home)
+  - [CSAMA[(https://www.huber.embl.de/csama2020/#home) - Intermediate course focusing on statistical analysis of genomic datasets
   - [Hemberg scRNA-seq course](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html)
+  - [EMBL-EBI online training resources](https://www.ebi.ac.uk/training/online/) - introductory courses covering the use of many online databases and resourses
 
 ### Lectures
   - Broad [Models Inference and Alogorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
