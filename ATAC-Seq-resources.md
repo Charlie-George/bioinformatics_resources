@@ -1,5 +1,7 @@
 
-# This file contains ATAc-Seq resorces 
+# This file contains ATAC-Seq resorces 
+
+- For a full and comprehensive list of resources see 
 
 ## Introductory overviews
 
@@ -69,8 +71,12 @@ Generates QC plots for ATAC-Seq samples
  -factor footprints does not take conservation into account (centipede = an alternative)
  - V plot - distance to binding sites 
 
-### Footprinting
 
+### Blacklist 
+    - Blacklist paper - https://www.nature.com/articles/s41598-019-45839-z
+
+### Footprinting
+ - HINT-ATAC https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2
 
  - **centerpede**:
     takes PhyloP into account 
