@@ -45,11 +45,19 @@ There is a lot of overlap between sections but links are split into broad sectio
 
 ### Single cell
 - Repository collecting single cell tools - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
+- The human cell atlas hold regular open access conferences that its worth watching
+  - e.g. [HCA Latin America 2021](https://www.humancellatlas.org/hca-latin-america-2021-workshop/)
+- 
 
 ### ATAC-Seq
 - [My list of useful ATAC-Seq resources](./genomics/ATAC-Seq-resources.md)
 
 ### ChIP-Seq
+
+### Bulk RNA-seq
+- Deconvoluting Bulk rna-seq cell compostion 
+  - MuSic- [paper](https://www.nature.com/articles/s41467-018-08023-x) and [vignette](https://xuranw.github.io/MuSiC/articles/MuSiC.html)
+  - Voxhunt - [vignette](https://github.com/quadbiolab/VoxHunt)
 
 # General Datascience
 
