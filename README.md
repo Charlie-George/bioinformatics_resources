@@ -26,6 +26,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) By Susan Holmes and Wolfgang Huber - Excellent beginner to intermediate statistical concepts that are geared towards biological problems - These are  two top experts in the field of statistics and biological data science, this book really is a must read.
 - [MIT Deep Leanring in the Life Sciences Course Materials](https://mit6874.github.io/)
 - [Harvard Introdution to Bioinformatics and Computational Biology by Shirley Liu](https://liulab-dfci.github.io/bioinfo-combio/) - An amazing collection of lectures by Shirley Liu, one of the world leaders in bioinformatics, covering fundamental and key algorithmns in the field in excellent detail. 
+- [Harvard X](https://rafalab.github.io/pages/harvardx.html) - open computational biology lectures and resources
 
 ### Lecture series
 - Broad Institute [Models Inference and Algorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
