@@ -95,6 +95,11 @@ There is a lot of overlap between sections but links are split into broad sectio
 # Machine learning
 - [Python Machine Learning](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750) by Sebastian Raschka and Vahid Mirjalili -> Nice introductory textbook going over the fundamentals of machine learning concepts, algorithmns and using the Python scikit learn library
 - [Encoding of categorical variables](./machine_learning/encoding.md)
+- Sklearn 
+  - [Multiclass classification](https://scikit-learn.org/stable/modules/multiclass.html#multiclass-classification)
+  - [Preprocessing labels/targets](https://scikit-learn.org/stable/modules/preprocessing_targets.html#preprocessing-targets)
+  - [Transforming a target/label in regression](https://scikit-learn.org/stable/modules/compose.html#transformed-target-regressor)
+  - [Glossary of terms](https://scikit-learn.org/stable/glossary.html#term-multiclass)
 - [MIT Deep Leanring in the Life Sciences Course Materials](https://mit6874.github.io/)
 
 # Other useful software
