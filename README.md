@@ -68,6 +68,8 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [datacamp](https://www.datacamp.com/) - various online courses covering a broad range of data science topics - many introductory
 
 # General Programming
+- Software and Datacarpentries [courses](https://carpentries.org/community-lessons/#the-carpentrieslab)
+- 
 ### Linux and command line
 - [Linux Foundation Course](https://www.edx.org/course/introduction-to-linux) - Through intro to linux and command line
 ### R resources
@@ -115,6 +117,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 
 # Resources for teaching bioinformatics
 - [Ten quick tips for teaching with participatory live coding](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008090)
+- [Carpentries instructor training](https://carpentries.github.io/instructor-training/)
 
 # My notes for my own computer setup 
 These notes are pretty rough and mainly for my own use so bare with them... 
