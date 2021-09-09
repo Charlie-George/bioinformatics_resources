@@ -67,6 +67,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 ### Geneset/Pathway enrichment 
   - Nice review/guide through the whole process and visulisation [Riemand et al., 2019 Nature Protocols](https://www.nature.com/articles/s41596-018-0103-9#Sec56
     - includes gProfiler, GSEA, Cytoscape and Enrichment Map
+  - More detailed description for selecting an appropriate background (https://sci-hub.se/10.1007/978-1-60761-175-2_6)
 
 # General Datascience
 
