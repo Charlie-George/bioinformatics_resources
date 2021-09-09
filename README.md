@@ -27,6 +27,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [MIT Deep Leanring in the Life Sciences Course Materials](https://mit6874.github.io/)
 - [Harvard Introdution to Bioinformatics and Computational Biology by Shirley Liu](https://liulab-dfci.github.io/bioinfo-combio/) - An amazing collection of lectures by Shirley Liu, one of the world leaders in bioinformatics, covering fundamental and key algorithmns in the field in excellent detail. 
 - [Harvard X](https://rafalab.github.io/pages/harvardx.html) - open computational biology lectures and resources
+- [Computational Genomics With R](https://compgenomr.github.io/book/)
 
 ### Lecture series
 - Broad Institute [Models Inference and Algorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
