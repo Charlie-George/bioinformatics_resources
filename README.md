@@ -63,6 +63,10 @@ There is a lot of overlap between sections but links are split into broad sectio
   - MuSic- [paper](https://www.nature.com/articles/s41467-018-08023-x) and [vignette](https://xuranw.github.io/MuSiC/articles/MuSiC.html)
   - Voxhunt - [vignette](https://github.com/quadbiolab/VoxHunt)
 
+### Geneset/Pathway enrichment 
+  - Nice review/guide through the whole process and visulisation [Riemand et al., 2019 Nature Protocols](https://www.nature.com/articles/s41596-018-0103-9#Sec56
+    - includes gProfiler, GSEA, Cytoscape and Enrichment Map
+
 # General Datascience
 
 - [General data science topics](https://towardsdatascience.com/) - general data science website with interesting articles relating to all things data science, lots of machine learning topics
