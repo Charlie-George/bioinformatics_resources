@@ -113,6 +113,7 @@ There is a lot of overlap between sections but links are split into broad sectio
   - [Transforming a target/label in regression](https://scikit-learn.org/stable/modules/compose.html#transformed-target-regressor)
   - [Glossary of terms](https://scikit-learn.org/stable/glossary.html#term-multiclass)
 - [MIT Deep Leanring in the Life Sciences Course Materials](https://mit6874.github.io/)
+- [2021 ML in Genomics course](https://github.com/BIMSBbioinfo/compgen2021) focused on ML using R
 
 # Other useful software
 - Git
