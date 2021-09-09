@@ -84,6 +84,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [rstudio webinars](https://rstudio.com/resources/webinars/) - webinars on various topics related to R and rstudio
 - [R graph gallery](https://www.r-graph-gallery.com/) - gallery of various R-based graphs and how to make them
 - [ggplot extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) - nice overview of ggplot extensions you can use - good for plotting inspiration
+- [R Markdown Cookboook](https://bookdown.org/yihui/rmarkdown-cookbook/) - includes useful section on how to parameterise Rmds
 
 ### Python
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) very detailed textbook on using python for datascience, includes: ipython, numpy, pandas, matplotlib and scikit learn for machine learning
