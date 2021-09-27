@@ -107,6 +107,7 @@ There is a lot of overlap between sections but links are split into broad sectio
   - [ggplot extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) - nice overview of ggplot extensions you can use - good for plotting inspiration
 
 # Machine learning
+- [Nature Review: Guide to Machine Learning for Biologists. 2021., Greener et al.](https://www.nature.com/articles/s41580-021-00407-0)
 - [Python Machine Learning](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750) by Sebastian Raschka and Vahid Mirjalili -> Nice introductory textbook going over the fundamentals of machine learning concepts, algorithmns and using the Python scikit learn library
 - [Encoding of categorical variables](./machine_learning/encoding.md)
 - Sklearn 
