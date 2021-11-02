@@ -41,6 +41,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [IGV](http://software.broadinstitute.org/software/igv/)
 - [UCSC](https://genome.ucsc.edu/)
 - [awesome-expression-browser repository](https://github.com/federicomarini/awesome-expression-browser)
+- [Nice guide and tutorial to using GVIZ (bioconductor) and igv too visulise genomic data from Rockerfeller University](https://rockefelleruniversity.github.io/RU_VisualizingGenomicsData/)
 
 ### Genomes and Annotations
 - [GTFs and Fasta files](./genomics/What_the_GTF_Fastas_and_Annotations.md)
