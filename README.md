@@ -28,6 +28,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [Harvard Introdution to Bioinformatics and Computational Biology by Shirley Liu](https://liulab-dfci.github.io/bioinfo-combio/) - An amazing collection of lectures by Shirley Liu, one of the world leaders in bioinformatics, covering fundamental and key algorithmns in the field in excellent detail. 
 - [Harvard X](https://rafalab.github.io/pages/harvardx.html) - open computational biology lectures and resources
 - [Computational Genomics With R](https://compgenomr.github.io/book/)
+- [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/) - Excellent series of short workshops on a wide range of bioooinformatics topics.
 
 ### Lecture series
 - Broad Institute [Models Inference and Algorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
@@ -67,8 +68,10 @@ There is a lot of overlap between sections but links are split into broad sectio
   - Voxhunt - [vignette](https://github.com/quadbiolab/VoxHunt)
 
 ### Geneset/Pathway enrichment 
-  - Nice review/guide through the whole process and visulisation [Riemand et al., 2019 Nature Protocols](https://www.nature.com/articles/s41596-018-0103-9#Sec56
+  - Nice review/guide through the whole process and visulisation [Riemand et al., 2019 Nature Protocols](https://www.nature.com/articles/s41596-018-0103-9#Sec56)
     - includes gProfiler, GSEA, Cytoscape and Enrichment Map
+      - guide for using r package for [gprofiler2](https://cran.r-project.org/web/packages/gprofiler2/vignettes/gprofiler2.html)
+      - [SetRank](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1571-6) = packages for futher refining GSEA analysis and removing false possitives 
   - More detailed description for selecting an appropriate background (https://sci-hub.se/10.1007/978-1-60761-175-2_6)
 
 # General Datascience
@@ -81,6 +84,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - 
 ### Linux and command line
 - [Linux Foundation Course](https://www.edx.org/course/introduction-to-linux) - Through intro to linux and command line
+
 ### R resources
 - [**R for data science**](http://r4ds.had.co.nz/) - Introductory book that covers R, Rstudio, Tidyverse for data wrangling, plotting in ggplot, general data science approaches and methods.
 - [Software carpentry R for genomics](https://datacarpentry.org/genomics-r-intro/) - basic r introductory course
