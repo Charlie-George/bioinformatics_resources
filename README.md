@@ -34,6 +34,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - Broad Institute [Models Inference and Algorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
 - Broad Institute [Other uploads](https://www.youtube.com/user/broadinstitute/videos?view=0&sort=dd&shelf_id=10)
 - [Fragile Nucleosome](https://www.youtube.com/c/FragileNucleosome/videos) Transcription/Gene regulation lecture series
+- [Single Cell Omics Germany](https://www.singlecell.de/index.php/external-events/scog-events/) Single cell focused lecture series
 
 ## More specific genomic applications/fields
 
