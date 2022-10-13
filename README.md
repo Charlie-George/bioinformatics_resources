@@ -29,6 +29,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [Harvard X](https://rafalab.github.io/pages/harvardx.html) - open computational biology lectures and resources
 - [Computational Genomics With R](https://compgenomr.github.io/book/)
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/) - Excellent series of short workshops on a wide range of bioinformatics topics.
+- [Learn2Discover](https://www.flfdevnet.com/meet-the-team/) course in python, data handling, ML / Networks
 
 ### Lecture series
 - Broad Institute [Models Inference and Algorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
