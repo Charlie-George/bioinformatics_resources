@@ -30,6 +30,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [Computational Genomics With R](https://compgenomr.github.io/book/)
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/) - Excellent series of short workshops on a wide range of bioinformatics topics.
 - [Learn2Discover](https://www.flfdevnet.com/meet-the-team/) course in python, data handling, ML / Networks
+- [Intro to genomics for engineers](https://learngenomics.dev/) by St. Jude Children’s Research Hospital, Inc.
 
 ### Lecture series
 - Broad Institute [Models Inference and Algorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
