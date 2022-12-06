@@ -31,6 +31,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/) - Excellent series of short workshops on a wide range of bioinformatics topics.
 - [Learn2Discover](https://www.flfdevnet.com/meet-the-team/) course in python, data handling, ML / Networks
 - [Intro to genomics for engineers](https://learngenomics.dev/) by St. Jude Children’s Research Hospital, Inc.
+- AI learning resources curated and produced by [Deepmind](https://www.deepmind.com/learning-resources) - series of introductory lectures and podcasts
 
 ### Lecture series
 - Broad Institute [Models Inference and Algorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
