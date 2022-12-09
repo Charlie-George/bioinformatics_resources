@@ -83,6 +83,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 
 - [General data science topics](https://towardsdatascience.com/) - general data science website with interesting articles relating to all things data science, lots of machine learning topics
 - [datacamp](https://www.datacamp.com/) - various online courses covering a broad range of data science topics - many introductory
+- [Introduction to Research Data Science](https://alan-turing-institute.github.io/rds-course/) - by the Turing Institute
 
 # General Programming
 - Software and Datacarpentries [courses](https://carpentries.org/community-lessons/#the-carpentrieslab)
@@ -102,6 +103,8 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) very detailed textbook on using python for datascience, includes: ipython, numpy, pandas, matplotlib and scikit learn for machine learning
 - [Python graph gallery](https://python-graph-gallery.com/) - gallery of various python-based graphs and how to make them
 - [equivalent of setting PYTHONPATH so conda installs of python can access your own repos](./conda/Add_directories_to_conda_python_path.md)
+- [Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html) - From the Turing institute
+
 
 # Statistics
 - [The Art of Statistics: Learning from Data](https://www.amazon.co.uk/Learning-Data-Statistics-Pelican-Books/dp/0241258766/ref=sr_1_1?adgrpid=66294937627&dchild=1&gclid=CjwKCAjw_JuGBhBkEiwA1xmbRX7ccFq7iH3r3Vk5YQtechuGGdJoNUzpZWjstl00Td1BL7q1Vhy6rhoCVDMQAvD_BwE&hvadid=318278936635&hvdev=c&hvlocphy=1006457&hvnetw=g&hvqmt=e&hvrand=1773382778919080832&hvtargid=kwd-656409493610&hydadcr=11438_1841583&keywords=art+of+statistics&qid=1623678011&sr=8-1)By David Spiegelhalter - A short general book on the importance of visulising data and many key statistical concepts that crop up time and time again in biological data science - a really good and interesting read to those a bit rusty in statistics 
