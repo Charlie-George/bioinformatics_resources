@@ -3,6 +3,7 @@ Setting up a new computer
 
 List of things you might want to install/setup on a new laptop/computer to make your life easier
 
+- sort out access to eduroam
 - Xcode (mac only)
 - magnet (mac only - lets you but windows in different areas of screen)
 - Chrome (or Firefox if you prefer) 
