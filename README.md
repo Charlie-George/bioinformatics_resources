@@ -102,7 +102,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 ### Python
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) very detailed textbook on using python for datascience, includes: ipython, numpy, pandas, matplotlib and scikit learn for machine learning
 - [Python graph gallery](https://python-graph-gallery.com/) - gallery of various python-based graphs and how to make them
-- [equivalent of setting PYTHONPATH so conda installs of python can access your own repos](./conda/Add_directories_to_conda_python_path.md)
+- [equivalent of setting PYTHONPATH so conda installs of python can access your own repos](./computer_setup/Add_directories_to_conda_python_path.md)
 - [Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html) - From the Turing institute
 
 
