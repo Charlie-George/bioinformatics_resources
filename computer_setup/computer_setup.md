@@ -33,3 +33,6 @@ List of things you might want to install/setup on a new laptop/computer to make 
 - You might also want to use Rswitch 
 - Dropbox
 - Readcube/Papers for reference management
+- VSCode
+  - Extensions:
+        Live Server: Allows you to right click on html file in browser and open file from server in local browser
