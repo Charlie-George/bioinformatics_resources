@@ -11,6 +11,7 @@ This markdown contains a list of resources for datasets and databases that are u
 - [MOCA - Mouse Organogenesis Cell Atlas](https://oncoscape.v3.sttrcancer.org/atlas.gs.washington.edu.mouse.rna/landing)
     - 2 million from 61 mouse embryos from E9.5-13.5 -> ID cell types and trajectories and define marker genes and dynamics ofgene expression within cell types and trajectories overtime
 - [Cell X Gene](https://cellxgene.cziscience.com/) - explore single cell data sets and clusters - tool from CZI
+- [Humna cell atlas of fetal gene expression](https://www.science.org/doi/10.1126/science.aba7721)
 
 ### TF binding and ChIP assays 
 - ENCODE
