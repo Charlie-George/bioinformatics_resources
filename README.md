@@ -33,6 +33,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [Intro to genomics for engineers](https://learngenomics.dev/) by St. Jude Children’s Research Hospital, Inc.
 - AI learning resources curated and produced by [Deepmind](https://www.deepmind.com/learning-resources) - series of introductory lectures and podcasts
 - OVerview of history of genetics (http://www.dnaftb.org/)
+- [Computational Genomics with R book](https://compgenomr.github.io/book/index.html) from Dr. Altuna Akalin a bioinformatics scientist and the head of Bioinformatics and Omics Data Science Platform at the Berlin Institute of Medical Systems Biology, Max Delbrück Center in Berlin) - covers things from genomics to machine learning
 
 ### Lecture series
 - Broad Institute [Models Inference and Algorithms meeting](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
@@ -99,6 +100,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [R graph gallery](https://www.r-graph-gallery.com/) - gallery of various R-based graphs and how to make them
 - [ggplot extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) - nice overview of ggplot extensions you can use - good for plotting inspiration
 - [R Markdown Cookboook](https://bookdown.org/yihui/rmarkdown-cookbook/) - includes useful section on how to parameterise Rmds
+- [Computational Genomics with R book](https://compgenomr.github.io/book/index.html) from Dr. Altuna Akalin a bioinformatics scientist and the head of Bioinformatics and Omics Data Science Platform at the Berlin Institute of Medical Systems Biology, Max Delbrück Center in Berlin) - covers things from genomics to machine learning
 
 ### Python
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) very detailed textbook on using python for datascience, includes: ipython, numpy, pandas, matplotlib and scikit learn for machine learning
@@ -133,6 +135,7 @@ There is a lot of overlap between sections but links are split into broad sectio
   - [Glossary of terms](https://scikit-learn.org/stable/glossary.html#term-multiclass)
 - [MIT Deep Leanring in the Life Sciences Course Materials](https://mit6874.github.io/)
 - [2021 ML in Genomics course](https://github.com/BIMSBbioinfo/compgen2021) focused on ML using R
+- [Computational Genomics with R book](https://compgenomr.github.io/book/index.html) from Dr. Altuna Akalin a bioinformatics scientist and the head of Bioinformatics and Omics Data Science Platform at the Berlin Institute of Medical Systems Biology, Max Delbrück Center in Berlin) - covers things from genomics to basic intro to machine learning
 
 # Other useful software
 - Git
