@@ -34,8 +34,13 @@ ssh-copy-id -i ~/.ssh/id_rsa <username>@<server.address.ox.ac.uk>
 ```
 - Next time you log on it will use your ssh password to gain access, but to avoid having to type this all the time too we can add the ssh password to an ssh authentication agent 
 ```
+# set ssh agent running 
 eval `ssh-agent -s`
+
+# add key 
 ssh-add ~/.ssh/id_rsa
+
+# now you should be able to log on without using password
 ssh -i ~/.ssh/id_rsa <username>@<server.address.ox.ac.uk>            
 ```
 - Finally if you haven't already add the ssh connection details to your `~/.ssh/config` file 
