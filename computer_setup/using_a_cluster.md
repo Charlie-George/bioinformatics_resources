@@ -1,3 +1,7 @@
+# Set up and Info for using different clusters 
+
+My notes on how to set up ssh keys for easy access to cluster and other things i might need to set up. 
+
 ## Setting up ssh 
 
 - standard command = `ssh  <username>@<server.address.ox.ac.uk>`
