@@ -40,16 +40,17 @@ eval `ssh-agent -s`
 # add key 
 ssh-add ~/.ssh/id_rsa
 
-# now you should be able to log on without using password
-ssh -i ~/.ssh/id_rsa <username>@<server.address.ox.ac.uk>            
+# now you should be able to log on using the key and the key password
+# but if you do make sure you log off again before the next step  
+# ssh -i ~/.ssh/id_rsa <username>@<server.address.ox.ac.uk>            
 ```
-- Finally if you haven't already add the ssh connection details to your `~/.ssh/config` file 
+- Finally if you haven't already add the ssh connection details to your local `~/.ssh/config` file 
 ```
 # add something like this 
-host <ccb1>
-    hostname <server.address.ox.ac.uk>
-    user <username>
-    identityfile ~/.ssh/id_rsa 
+Host <ccb1>
+    HostName <server.address.ox.ac.uk>
+    User <username>
+    IdentityFile ~/.ssh/id_rsa
 ```
 - now you can log on using just `ssh ccb1` for example
 
