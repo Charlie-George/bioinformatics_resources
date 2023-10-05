@@ -2,7 +2,8 @@
 
 My notes on how to set up ssh keys for easy access to cluster and other things i might need to set up. 
 
-## Setting up ssh 
+
+## Setting up access via ssh 
 
 - standard command = `ssh  <username>@<server.address.ox.ac.uk>`
 - can add host name and address to `.ssh/config` file to save typing full address and options each time 
@@ -57,6 +58,22 @@ Host <ccb1>
     IdentityFile ~/.ssh/id_rsa
 ```
 - now you can log on using just `ssh ccb1` for example
+
+## Things you want to set up on cluster 
+
+- github ssh key and download github repos
+- `.bashrc`
+- conda/mamba
+- add my code directories to conda path: see how [here](./Add_directories_to_conda_python_path.md)
+- does it have tmux?
+- check queue manager
+    - queue names and defaults (time / memory / cpus)
+    - template script
+    - is there an interactive note
+- jupyter lab & rstudio set up? 
+- cgat pipelines
+  - see notes [here](./cgatpipelines_on_new_cluster.md)
+  - edit `.cgat.yml`
 
 
 ## JADE: 
