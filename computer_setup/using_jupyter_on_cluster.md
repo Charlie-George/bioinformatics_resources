@@ -39,4 +39,6 @@ jupyter notebook --no-browser --port 8545
 8) Then when on login1 through the tunnel in 7 open a subsequent tunnel to the node running jupyter -> again make sure you update the port number 8545 to whatever you choose in step 5 and the node id (e.g. imm-wn6) to whatever node jupyter is running on. 
 
 ```ssh -N -L 8545:localhost:8545 tswift@imm-wn6```
+
+9) Now refresh your browser where you pasted the jupyter link and it should work! Yay! If it doesn't make sure to check your ports and node names are correct
  
