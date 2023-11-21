@@ -158,6 +158,7 @@ These notes are pretty rough and mainly for my own use so bare with them...
 - [How to add own directories to equivalent of PYTHONPATH so conda installs of python can access your own repos](./computer_setup/Add_directories_to_conda_python_path.md)
 - [Setting up cgatpipelines on new cluster](./computer_setup/cgatpipelines_on_new_cluster.md)
     - [Transfer data between computers/clusters using rsync](./computer_setup/rsync.md)
+- [using jupyter on HPC cluster](./computer_setup/using_jupyter_on_cluster.md)
  
 # Public Datasets 
 Here is a list of publically available datasets/resources for bioinformatic analysis - document [here](./bioinformatic_datasets_and_databases.md)
