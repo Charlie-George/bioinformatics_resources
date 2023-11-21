@@ -27,7 +27,7 @@ conda activate test_python_env
 # if using jupyter lab -> change port number 8545 to whatever you want e.g. 6767
 jupyter-lab --no-browser --port 8545
 
-# if using jupyter notebool -> change port number 8545 to whatever you want e.g. 6767
+# if using jupyter notebook -> change port number 8545 to whatever you want e.g. 6767
 jupyter notebook --no-browser --port 8545
 ```
 6) Copy the notebook address from the juptyer output e.g. http://localhost:8545/lab and paste into a browser on your local machine (it won't have any output at this point)
