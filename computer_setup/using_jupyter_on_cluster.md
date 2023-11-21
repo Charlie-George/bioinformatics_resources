@@ -17,7 +17,7 @@ tmux
 
 ```srun --cpus-per-task 2 --mem 64G --ntasks-per-node 1 --time 23:59:59 --pty bash```
 
-4) When on node take a node of the node id (e.g. imm-wn6)
+4) When on node take a note of the node id (e.g. imm-wn6)
 5) Load conda env and start juptyer lab or notebook e.g 
 
 ```
