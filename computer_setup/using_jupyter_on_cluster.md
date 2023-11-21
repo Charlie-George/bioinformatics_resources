@@ -4,7 +4,7 @@ Using Jupyter notebook on the cluster
 ```
 ssh tswift@login1.molbiol.ox.ac.uk
 ```
-2) Open tmux or screen session (this will keep your interactive job going if you loose connection)
+2) Open tmux or screen session (this will keep your interactive job going if you loose connection) - link to brief tmux overview [here](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 ```
 # Check if already have tmux session open 
 tmux ls 
