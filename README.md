@@ -122,7 +122,8 @@ There is a lot of overlap between sections but links are split into broad sectio
   - [R graph gallery](https://www.r-graph-gallery.com/) - gallery of various R-based graphs and how to make them
   - [ggplot extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) - nice overview of ggplot extensions you can use - good for plotting inspiration
   - [ComplexHeatmaps (in R)](https://jokergoo.github.io/ComplexHeatmap-reference/book/index.html) - manual to create complex heatmaps to assimilate info
-  - [Biorender](https://biorender.com/) - software for publication quality drawing of cells/biological graphics 
+  - [Biorender](https://biorender.com/) - software for publication quality drawing of cells/biological graphics
+  - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) - github repo of bad graphs, reasons why not to use then and how to make them better. 
 
 # Machine learning
 - [Nature Review: Guide to Machine Learning for Biologists. 2021., Greener et al.](https://www.nature.com/articles/s41580-021-00407-0)
