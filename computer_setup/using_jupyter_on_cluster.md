@@ -1,7 +1,9 @@
 Using Jupyter notebook on the cluster 
 
 1) ssh onto cluster head node (e.g. login1)
+```
 ssh tswift@login1.molbiol.ox.ac.uk
+```
 2) Open tmux or screen session (this will keep your interactive job going if you loose connection)
 ```
 # Check if already have tmux session open 
@@ -21,8 +23,10 @@ tmux
 ```
 # activate conda environment 
 conda activate test_python_env
+
 # if using jupyter lab -> change port number 8545 to whatever you want e.g. 6767
 jupyter-lab --no-browser --port 8545
+
 # if using jupyter notebool -> change port number 8545 to whatever you want e.g. 6767
 jupyter notebook --no-browser --port 8545
 ```
