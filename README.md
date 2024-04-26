@@ -59,8 +59,10 @@ There is a lot of overlap between sections but links are split into broad sectio
 - Repository collecting single cell tools - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 - The human cell atlas hold regular open access conferences that its worth watching
   - e.g. [HCA Latin America 2021](https://www.humancellatlas.org/hca-latin-america-2021-workshop/)
-- Satijalab Sinlge cell genomics day
+- Satijalab Single cell genomics day held annually (usually March)
+  - [March 2024](https://satijalab.org/scgd24/)
   - [March 2021](https://satijalab.org/scgd21/)
+- Center for Integrated Cellular Analysis Online lecture series - [here](https://www.youtube.com/@satijalab3189/videos) 
 - Tools 
   - [Azimuth](https://satijalab.org/azimuth/) - Map your counts table to reference single cell datasets 
 
