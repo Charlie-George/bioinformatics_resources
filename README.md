@@ -65,6 +65,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 - Center for Integrated Cellular Analysis Online lecture series - [here](https://www.youtube.com/@satijalab3189/videos) 
 - Tools 
   - [Azimuth](https://satijalab.org/azimuth/) - Map your counts table to reference single cell datasets
+- Batch correction methods being poorly calibrated [link](https://www.biorxiv.org/content/10.1101/2024.03.19.585562v1)
 - ScVI
   - Thread regarding benchmarking (https://x.com/_canergen/status/1772190381871907122)
   - 
