@@ -64,7 +64,10 @@ There is a lot of overlap between sections but links are split into broad sectio
   - [March 2021](https://satijalab.org/scgd21/)
 - Center for Integrated Cellular Analysis Online lecture series - [here](https://www.youtube.com/@satijalab3189/videos) 
 - Tools 
-  - [Azimuth](https://satijalab.org/azimuth/) - Map your counts table to reference single cell datasets 
+  - [Azimuth](https://satijalab.org/azimuth/) - Map your counts table to reference single cell datasets
+- ScVI
+  - Thread regarding benchmarking (https://x.com/_canergen/status/1772190381871907122)
+  - 
 
 ### ATAC-Seq
 - [My list of useful ATAC-Seq resources](./genomics/ATAC-Seq-resources.md)
