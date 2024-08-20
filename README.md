@@ -54,6 +54,12 @@ There is a lot of overlap between sections but links are split into broad sectio
 ### Genomes and Annotations
 - [GTFs and Fasta files](./genomics/What_the_GTF_Fastas_and_Annotations.md)
 
+### Imaging Data 
+- [Nimbus Image](https://arjun-raj-lab.gitbook.io/nimbusimage) - Suite of tools from Arjun Raj lab for interactively analysing and investigating microsopy data
+
+### Spatial Transcriptomics 
+- [Squidpy](https://squidpy.readthedocs.io/en/stable/) - Spatial Single Cell Analysis in Python
+    - The paper: Squidpy: a scalable framework for spatial omics analysis. Nature Methods, 19(2):171–178, Feb 2022. [doi:10.1038/s41592-021-01358-2].
 
 ### Single cell
 - Repository collecting single cell tools - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
