@@ -149,8 +149,8 @@ There is a lot of overlap between sections but links are split into broad sectio
 - [MIT Deep Leanring in the Life Sciences Course Materials](https://mit6874.github.io/)
 - [2021 ML in Genomics course](https://github.com/BIMSBbioinfo/compgen2021) focused on ML using R
 - [Computational Genomics with R book](https://compgenomr.github.io/book/index.html) from Dr. Altuna Akalin a bioinformatics scientist and the head of Bioinformatics and Omics Data Science Platform at the Berlin Institute of Medical Systems Biology, Max Delbrück Center in Berlin) - covers things from genomics to basic intro to machine learning
-- [Optuna](https://optuna.org/) - Python framework to automate hyperparamter search 
-
+- [Optuna](https://optuna.org/) - Python framework to automate hyperparameter search 
+- [Ray Tune](https://docs.ray.io/en/latest/tune/index.html) - Python framework to automate hyperparameter search 
 # Other useful software
 - Git
 - Conda
