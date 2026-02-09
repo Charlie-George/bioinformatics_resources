@@ -5,7 +5,7 @@ My notes on how to set up ssh keys for easy access to cluster and other things i
 
 ## Setting up access via ssh 
 
-- standard command = `ssh  <username>@<server.address.ox.ac.uk>`
+- standard command = `ssh  <username>@<server.address.ac.uk>`
 - can add host name and address to `.ssh/config` file to save typing full address and options each time 
 - can use public-private key pair to save entering password each time 
 
@@ -93,8 +93,8 @@ Host <ccb1>
 - need to change `.cgat.yml` to update default options for queues (time, cpus, default mem requested)
 
 ## CBRG
-- tunnel jupyter notebook - use cbrglogin3 
-    - ssh `<username>@<address.ox.ac.uk>`
+- tunnel jupyter notebook - 
+    - ssh `<username>@<address.ac.uk>`
     - open tmux and run notebook
 ```
 tmux
@@ -103,7 +103,7 @@ juptyer notebook --no-browser --port <5353>
 # copy the ip address
 ```
   - open tunnel 
-  - `ssh -L <5353>:localhost:<5353> <username>@<address.ox.ac.uk>`
+  - `ssh -L <5353>:localhost:<5353> <username>@<address.ac.uk>`
   - paste ip address into local chrome 
 
 
