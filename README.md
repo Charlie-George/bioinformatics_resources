@@ -101,7 +101,7 @@ There is a lot of overlap between sections but links are split into broad sectio
 
 # General Programming
 - Software and Datacarpentries [courses](https://carpentries.org/community-lessons/#the-carpentrieslab)
-- 
+- HPC - High Performance Computing and Clusters - [HPC Carpentries](https://www.hpc-carpentry.org/community-lessons/#hpc-carpentry)
 ### Linux and command line
 - [Linux Foundation Course](https://www.edx.org/course/introduction-to-linux) - Through intro to linux and command line
 
